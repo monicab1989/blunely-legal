@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1254 1254" role="img" aria-label="Símbolo de Blunely">
+  <defs>
+    <linearGradient id="leftLeaf" x1="285" y1="462" x2="604" y2="934" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#62B69A"/>
+      <stop offset="0.48" stop-color="#36947F"/>
+      <stop offset="1" stop-color="#176B61"/>
+    </linearGradient>
+    <linearGradient id="rightLeaf" x1="608" y1="904" x2="1004" y2="750" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4AA984"/>
+      <stop offset="0.52" stop-color="#A6D3A4"/>
+      <stop offset="1" stop-color="#DAEFB9"/>
+    </linearGradient>
+    <linearGradient id="head" x1="575" y1="522" x2="680" y2="384" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#218F7B"/>
+      <stop offset="1" stop-color="#69C49E"/>
+    </linearGradient>
+  </defs>
+  <path d="M 248 464 C 392 468 545 560 617 730 C 640 789 649 866 620 930 C 419 926 230 747 234 489 C 234 471 239 463 248 464 Z" fill="url(#leftLeaf)"/>
+  <path d="M 1008 428 C 830 425 666 559 615 724 C 591 786 586 871 609 930 C 813 935 1037 745 1027 451 C 1026 436 1023 428 1008 428 Z" fill="url(#rightLeaf)" fill-opacity="0.91"/>
+  <circle cx="627" cy="450.5" r="79" fill="url(#head)"/>
+</svg>
